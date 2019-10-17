@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/czq/eclipse-workspace/try_connect_mavlink/build/default",
+  "command": "/usr/bin/c++   -I/home/czq/firmware/mavlink/include  -O3 -DNDEBUG   -o CMakeFiles/try_connect_mavlink.dir/try_connect_mavlink.cpp.o -c /home/czq/eclipse-workspace/try_connect_mavlink/try_connect_mavlink.cpp",
+  "file": "/home/czq/eclipse-workspace/try_connect_mavlink/try_connect_mavlink.cpp"
+}
+]

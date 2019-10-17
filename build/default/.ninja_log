@@ -1,0 +1,16 @@
+# ninja log v5
+0	223	0	CMakeFiles/try_connect_mavlink.dir/try_connect_mavlink.cpp.o	3ea20a8667c40289
+223	281	0	try_connect_mavlink	6781230bae496c9a
+0	302	0	CMakeFiles/try_connect_mavlink.dir/try_connect_mavlink.cpp.o	3ea20a8667c40289
+302	356	0	try_connect_mavlink	6781230bae496c9a
+1	23	0	build.ninja	e51e71706b464bb2
+0	461	0	CMakeFiles/try_connect_mavlink.dir/try_connect_mavlink.cpp.o	f8246bf22ca61d37
+462	515	0	try_connect_mavlink	6781230bae496c9a
+1	475	0	CMakeFiles/try_connect_mavlink.dir/try_connect_mavlink.cpp.o	f8246bf22ca61d37
+475	526	0	try_connect_mavlink	6781230bae496c9a
+1	484	0	CMakeFiles/try_connect_mavlink.dir/try_connect_mavlink.cpp.o	f8246bf22ca61d37
+484	543	0	try_connect_mavlink	6781230bae496c9a
+0	1089	0	CMakeFiles/try_connect_mavlink.dir/try_connect_mavlink.cpp.o	f8246bf22ca61d37
+1089	1143	0	try_connect_mavlink	6781230bae496c9a
+2	982	0	CMakeFiles/try_connect_mavlink.dir/try_connect_mavlink.cpp.o	f8246bf22ca61d37
+982	1035	0	try_connect_mavlink	6781230bae496c9a
